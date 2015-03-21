@@ -27,6 +27,6 @@ app.post('/comments.json', function(req, res) {
   });
 });
 
-let port = process.env.PORT || 5000;
+var port = process.env.PORT || 5000;
 console.log('Server started... ' + port);
 app.listen(port);
