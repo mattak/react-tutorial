@@ -1,6 +1,6 @@
 # react-tutorial
 
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/mattak/react-tutorial)
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/mattak/react-tutorial/tree/master)
 
 Original tutorial is here.
 
