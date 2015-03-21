@@ -27,5 +27,6 @@ app.post('/comments.json', function(req, res) {
   });
 });
 
-app.listen(3000);
-console.log('Server started: http://localhost:3000/');
+let port = process.env.PORT || 5000;
+console.log('Server started... ' + port);
+app.listen(port);
